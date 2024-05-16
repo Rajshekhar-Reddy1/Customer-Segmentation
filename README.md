@@ -1,8 +1,5 @@
 # Customer-Segmentation
 
-Skip to main content
-CaseStudyCustomerSegmentation-221027-180402.ipynb
-CaseStudyCustomerSegmentation-221027-180402.ipynb_Notebook unstarred
 
 Table of Contents
 1. Introduction
@@ -38,7 +35,7 @@ Segmenting customers is the process of dividing up mass consumers into groups wi
 
 Many companies adopts different segmentation schemes, that is often develop best but static (snapshot of consumer's preferences at the moment). Market trends evolve over time. It may grow, decline or disappear within certain time period due to number of reasons like demographics trend, technological advancement, economic cycles etc.
 
-Double-click (or enter) to edit
+
 
 
 2. Problem Statement
